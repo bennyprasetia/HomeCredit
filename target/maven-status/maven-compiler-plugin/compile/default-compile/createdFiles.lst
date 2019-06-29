@@ -1,0 +1,13 @@
+id\co\hci\pretest\entity\User.class
+id\co\hci\pretest\entity\UserCategoryFilter.class
+id\co\hci\pretest\repository\UserCategoryFilterRepository.class
+id\co\hci\pretest\repository\UserRepository.class
+id\co\hci\pretest\dto\ModulesDetailDto.class
+id\co\hci\pretest\controller\HomeCreditController.class
+id\co\hci\pretest\dto\ModulesDto.class
+id\co\hci\pretest\repository\CategoryRepository.class
+id\co\hci\pretest\factory\HomeCreditFactory.class
+id\co\hci\pretest\service\impl\HomeCreditServiceImpl.class
+id\co\hci\pretest\HomeCreditApplication.class
+id\co\hci\pretest\service\HomeCreditService.class
+id\co\hci\pretest\entity\Category.class
