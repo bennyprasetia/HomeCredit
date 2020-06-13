@@ -22,7 +22,7 @@ server:
 
 jasypt:
   encryptor:
-    password: 73nK9BV4n2zg
+    password: As2asw@sda@f
     algorithm: PBEWithMD5AndDES
 
 ---
